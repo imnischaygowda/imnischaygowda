@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Python, Machine Learning and Deep Learning ( never ending lol :rofl: )
 
-:man_technologist: I'm intrested for work in Open source contibution, experience in Python, ML and DL areas.
+:man_technologist: I'm intrested to contribute to Open Source, experience in Python, ML and DL areas.
 
 :superhero_man: Maybe someday get that :octocat: PRO  badget on my profile. :love_you_gesture:
 
