@@ -1,6 +1,9 @@
 <img align='right' src='https://github.com/Ranger105/Ranger105/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif' width='250"'>
 
-### Hi there 👋. I'm Nischay. Im a AI Enthusiast, currently work as Data Scientist.:raised_hands: 
+### Hi there 👋. 
+
+### I'm Nischay. Im a AI Enthusiast, currently work as Data Scientist.:raised_hands: 
+
 🌱 I’m currently learning Python, Machine Learning and Deep Learning ( never ending lol :rofl: )
 
 :man_technologist: I'm intrested for work in Open source contibution, experience in Python, ML and DL areas.
