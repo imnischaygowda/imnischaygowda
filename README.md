@@ -8,7 +8,7 @@
 
 :man_technologist: I'm intrested to contribute to Open Source, experience in Python, ML and DL areas.
 
-:superhero_man: Maybe someday get that :octocat: PRO  badget on my profile. :love_you_gesture:
+:superhero_man: Maybe someday get that :octocat: PRO  badge on my profile. :love_you_gesture:
 
 📫 How to reach me: <p align="Left">
 	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/Ranger105.svg?label=GitHub&style=social" alt="GitHub"></a>
