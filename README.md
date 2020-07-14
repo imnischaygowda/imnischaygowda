@@ -2,7 +2,7 @@
 
 ### Hi there 👋. 
 
-### I'm Nischay. Im a AI Enthusiast, currently work as Data Scientist.:raised_hands: 
+### I'm Nischay, an AI Enthusiast, currently work as Data Scientist.:raised_hands: 
 
 🌱 I’m currently learning Python, Machine Learning and Deep Learning ( never ending lol :rofl: )
 
