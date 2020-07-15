@@ -11,6 +11,6 @@
 :superhero_man: Maybe someday get that :octocat: PRO  badge on my profile. :love_you_gesture:
 
 📫 How to reach me: <p align="Left">
-	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/Ranger105.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
