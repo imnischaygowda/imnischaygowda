@@ -10,7 +10,7 @@
 
 :handshake: I’m looking for open source contribution opportunity.
 
-:superhero_man::octocat: PRO  badge on coming soon. :love_you_gesture:
+:octocat: PRO  badge on coming soon. :love_you_gesture:
 
 📫 How to reach me: <p align="center">
 	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
