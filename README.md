@@ -1,16 +1,23 @@
 <img align='right' src='https://github.com/Ranger105/Ranger105/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif' width='250"'>
 
-### Hi there 👋. 
+### Hi there 👋. I'm Nischay G Gowda
 
-### I'm Nischay, an AI Enthusiast, a Data Scientist.:raised_hands: 
+:man_technologist: I’m currently working as Data Scientist.
 
-🌱 I’m currently learning Python, Machine Learning and Deep Learning ( never ending lol :rofl: )
+🌱 I’m learning Python, ML, DL ( never ending lol :rofl: )
 
-:man_technologist: I'm intrested to contribute to Open Source, experience in Python, ML and DL areas.
+:robot: I’m intrested in Computer Vision and Natural Language Processing  
+
+:handshake: I’m looking for open source contribution opportunity.
 
 :superhero_man: Maybe someday get that :octocat: PRO  badge on my profile. :love_you_gesture:
 
-📫 How to reach me: <p align="Left">
+📫 How to reach me: <p align="center">
 	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	
+	
+	
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nischaygowda105&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
+
 
