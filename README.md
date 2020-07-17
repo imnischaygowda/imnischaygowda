@@ -1,6 +1,6 @@
 <img align='right' src='https://github.com/Ranger105/Ranger105/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif' width='400"'>
 
-## Hi there 👋. I'm Nischay Girish Gowda
+## Hi there 👋. I'm Nischay Girish Gowda.
 
 :man_technologist: I work as a Data Scientist.
 
