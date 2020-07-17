@@ -12,7 +12,7 @@
 
 :octocat: PRO  badge on coming soon. :love_you_gesture:
 
-📫 How to reach me: <p align="right">
+📫 How to reach me: <p align="left">
 	<a href="https://github.com/nischaygowda105"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	
