@@ -15,9 +15,9 @@
 📫 How to reach me: <p align="left">
 	<a href="https://github.com/nischaygowda105"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+<!-- To get stats board [YOUR github stats](https://github-readme-stats.vercel.app/api?username=nischaygowda105)
 	
 	
-	
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=nischaygowda105&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
 
 
