@@ -2,7 +2,7 @@
 
 ### Hi there 👋. I'm Nischay G Gowda
 
-:man_technologist: I work Data Scientist.
+:man_technologist: I work as a Data Scientist.
 
 🌱 I’m learning Python, ML, DL ( never ending lol :rofl: )
 
