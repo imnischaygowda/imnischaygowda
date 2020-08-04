@@ -16,7 +16,7 @@
 <p align="center">
 	<a href="https://github.com/nischaygowda105"><img src="https://img.shields.io/github/followers/nischaygowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/Nischay"><img src="https://img.shields.io/twitter/follow/Nischay?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn/follow/nischaygirishgowda--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/linkedin--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/nischaygowda105"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
 <!-- To get stats board [YOUR github stats](https://github-readme-stats.vercel.app/api?username=nischaygowda105)
