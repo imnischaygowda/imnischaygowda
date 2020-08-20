@@ -1,4 +1,3 @@
-<img align='right' src='https://github.com/Ranger105/Ranger105/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif' width='400"'>
 
 ## Hi there. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ## I'm Nischay Girish Gowda.
