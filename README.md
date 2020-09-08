@@ -4,7 +4,7 @@
 
 :man_technologist: I'm an AI Enthusiast.
 
-🌱 I’m learning Python, ML, DL ( never ending lol :rofl: )
+🌱 I’m learning Python, ML, DL ( never ending lol :rofl: ).
 
 :robot: I’m intrested in CV and NLP.  
 
