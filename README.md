@@ -6,7 +6,7 @@
 
 🌱 I’m learning Python, ML, DL ( never ending lol :rofl: )
 
-:robot: I’m intrested in Computer Vision and Natural Language Processing  
+:robot: I’m intrested in CV and NLP.  
 
 :handshake: I’m looking for open source contribution opportunity.
 
