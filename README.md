@@ -17,5 +17,6 @@
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/linkedin--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/nischayggowda105"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
-[Board] (https://github-readme-stats.vercel.app/api?username=nischaygowda105)
+
+![Nischay's github stats](https://github-readme-stats.vercel.app/api?username=nischayggowda105&show_icons=true)
 
