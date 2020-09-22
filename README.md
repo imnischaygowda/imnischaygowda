@@ -4,11 +4,11 @@
 
 :man_technologist: I'm an AI Enthusiast.
 
-🌱 I’m learning Python, ML, DL ( never ending lol :rofl: ).
+🌱 Learning Python, ML, DL ( never ending lol :rofl: ).
 
-:robot: I’m intrested in CV and NLP.  
+:robot: Intrested in CV and NLP.  
 
-:handshake: I’m looking for open source contribution opportunity.
+:handshake: Looking for open source contribution opportunity.
 
 📫 How to reach me: 
 <p align="center">
