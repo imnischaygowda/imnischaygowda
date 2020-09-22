@@ -2,7 +2,7 @@
 ## Hi there. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ## I'm Nischay Girish Gowda.
 
-:man_technologist: I'm an AI Enthusiast.
+:man_technologist: AI Enthusiast.
 
 🌱 Learning Python, ML, DL ( never ending lol :rofl: ).
 
