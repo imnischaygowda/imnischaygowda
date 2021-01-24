@@ -15,8 +15,10 @@
 	<a href="https://github.com/nischayggowda105"><img src="https://img.shields.io/github/followers/nischayggowda105.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/Nischay"><img src="https://img.shields.io/twitter/follow/Nischay?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/linkedin--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://nischay-gowda.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=20></a> 
 	<a href="https://dev.to/nischaygowda105">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nischay Gowda's DEV Profile" height="25" width="20">
+		
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nischay Gowda's DEV Profile" height="20">
 </a>
 <!-- 	<a href="https://github.com/sponsors/nischayggowda105"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a> -->
 </p>
