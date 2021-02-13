@@ -1,8 +1,5 @@
 
-## Hi there.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> 
-
-<div align = 'left'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=green)</div> 
-
+## Hi there.  <div align = 'right'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=green)</div> 
 
 :man_technologist: AI Enthusiast.
 
@@ -41,4 +38,9 @@
 <br />
 <br />
 
-![Nischay's github stats](https://github-readme-stats.vercel.app/api?username=nischayggowda105&show_icons=true)
+
+### :zap: GitHub Stats
+
+<a href="https://github.com/nischayggowda105/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nischayggowda105&repo=github-readme-stats" />
+</a>
