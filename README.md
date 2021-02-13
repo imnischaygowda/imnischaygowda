@@ -1,5 +1,5 @@
 
-## Hi there.👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=green)</div> 
+## Hi there.👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=red)</div> 
 
 :man_technologist: AI Enthusiast.
 
@@ -13,8 +13,8 @@
 
 <p align="center">
 	<a href="https://github.com/nischayggowda105"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-	<a href="https://twitter.com/Nischay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/nischaygirishgowda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+	<a href="https://twitter.com/NischayGowda105"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/nischaygowda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- 	<a href="https://nischay-gowda.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=20></a>  -->
 	<a href="https://nischay-gowda.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" ></a> 
 
