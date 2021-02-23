@@ -5,7 +5,7 @@
 
 🌱 Learning Python, ML, DL.
 
-:robot: Intrested in CV and NLP.  
+:robot: Intrested in Computer Vision and Analytics.  
 
 :handshake: Looking for open source contribution opportunity.
 
