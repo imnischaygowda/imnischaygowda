@@ -1,9 +1,9 @@
 
-## :octocat: Hi there.👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=red)</div> 
+## Hi there.👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=nischayggowda105&color=red)</div> 
 							
 :man_technologist: AI Enthusiast.
 
-🌱 Learning Python, ML, DL.
+:octocat: Learning Python, ML, DL.
 
 :robot: Intrested in Computer Vision and Analytics.  
 
