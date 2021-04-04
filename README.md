@@ -39,8 +39,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nischayggowda105)
 
-<br />
-
-[![Source Karma badge for @nischayggowda105](https://sourcekarma-og.vercel.app/api/nischayggowda105/github)](https://sourcekarma.vercel.app/nischayggowda105)
-
 
