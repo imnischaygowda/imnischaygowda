@@ -11,7 +11,7 @@
 
 <br/>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nischayggowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nischay" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 
 <br/>
 
-<h3 align="center">Technology Stack:</h3>
+<h3 align="left">Technology Stack:</h3>
 
 <p align="left">
 <img  alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
