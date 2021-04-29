@@ -9,22 +9,22 @@
 
 :handshake: Looking for open source contribution opportunity.
 
-<hr>
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/nischayggowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nischay" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/nischay105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nischay" height="30" width="40" /></a>
 <a href="https://nischay-gowda.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="nischay" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imnischaygowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nischay" height="30" width="40" /></a>
 </p>
 
-<hr>
+<br/>
 
 <h3 align="center">Technology Stack:</h3>
 
-<p align="center">
+<p align="left">
 <img  alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img  alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img  alt="Mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -34,7 +34,7 @@
 <img  alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <p>
 
-<hr>
+<br/>
 
 ### :zap: Github Stats
 
