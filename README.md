@@ -18,8 +18,9 @@
 <a href="https://www.instagram.com/imnischaygowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nischay" height="30" width="40" /></a>
 </p>
 
-	
-<!-- 	<a href="https://github.com/sponsors/nischayggowda105"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a> -->
+<br />
+<hr>
+<br />
 
 <h3 align="center">Technology Stack:</h3>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -31,6 +32,7 @@
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <br />
+<hr>
 <br />
 
 ### :zap: Github Stats
