@@ -9,22 +9,19 @@
 
 :handshake: Looking for open source contribution opportunity.
 
-### Connect with me
-
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shankarpandala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shankarpandala" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shankarpandala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shankarpandala" height="30" width="40" /></a>
-<a href="https://kaggle.com/shankarpandala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shankarpandala" height="30" width="40" /></a>
-<a href="https://instagram.com/shankarpandala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shankarpandala" height="30" width="40" /></a>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nischayggowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nischay" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nischay105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nischay" height="30" width="40" /></a>
+<a href="https://nischay-gowda.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="nischay" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imnischaygowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nischay" height="30" width="40" /></a>
 </p>
 
 	
 <!-- 	<a href="https://github.com/sponsors/nischayggowda105"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a> -->
-</p>
 
-### Technology Stack:
-
+<h3 align="center">Technology Stack:</h3>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -40,4 +37,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nischay105)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarpandala&" alt="shankarpandala" /></p>
 
