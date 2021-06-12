@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/nischayggowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nischay" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/nischay105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nischay" height="30" width="40" /></a>
 <a href="https://nischay-gowda.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="nischay" height="30" width="40" /></a>
-<a href="https://www.instagram.com/imnischaygowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nischay" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thenischaygowda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nischay" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -38,6 +38,6 @@
 
 ### :zap: Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nischay105)
+![](https://github-readme-stats.vercel.app/api?username=thenischaygowda)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nischay105)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenischaygowda)](https://git.io/streak-stats)
