@@ -26,4 +26,4 @@ Previously:
 
 ![](https://github-readme-stats.vercel.app/api?username=imnischaygowda)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenischaygowda)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imnischaygowda)](https://git.io/streak-stats)
