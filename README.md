@@ -5,7 +5,7 @@
 
 Previously:
 - 🎓 Bachelor's in Computer Science at [VTU](https://vtu.ac.in/)
-- 🔒 Senior Executive at [BIU at Piramal Enterprises](https://www.piramalfinance.com/)
+- 🔒 Senior Executive - BIU at [Piramal Enterprises](https://www.piramalfinance.com/)
 <br/>
 
 <h3 align="left">Technology Stack:</h3>
