@@ -1,11 +1,15 @@
 
 ## 👋🏻  Hi, I'm Nischay.
 
+I'm currently looking for Summer Internships in US. Open to roles such as Data Science and Machine Learning Engineer.
+
+Mail me at nischaygowda105@gmail.com
+
 - 🎓 Studying Mastersin Computer Science at [Arizona State University](https://asu.edu)
 - 🎓 Bachelor's in Computer Science at [VTU](https://vtu.ac.in/)
 
 Work Experience
-- 🔒 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/)
+- 🔒 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/) 2021 - 2022
 
 <br/>
 
