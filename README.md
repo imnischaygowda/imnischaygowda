@@ -1,11 +1,12 @@
 
 ## 👋🏻  Hi, I'm Nischay.
 
-- 🎓 Studying Computer Science (Master's) at [Arizona State University](https://asu.edu)
-
-Previously:
+- 🎓 Studying Mastersin Computer Science at [Arizona State University](https://asu.edu)
 - 🎓 Bachelor's in Computer Science at [VTU](https://vtu.ac.in/)
+
+Work Experience
 - 🔒 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/)
+
 <br/>
 
 Skills:
