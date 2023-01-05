@@ -5,8 +5,8 @@ I'm currently looking for Summer Internships in US. Open to roles such as Data S
 
 Mail me at nischaygowda105@gmail.com
 
-- 🎓 Studying Mastersin Computer Science at [Arizona State University](https://asu.edu)
-- 🎓 Bachelor's in Computer Science at [VTU](https://vtu.ac.in/)
+- 🎓 Studying Master's in Computer Science at [Arizona State University](https://asu.edu)
+- 🎓 Bachelor's in Electronics and Communication at [VTU](https://vtu.ac.in/)
 
 Work Experience
 - 👨‍💻 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/) (April 2021 - July 2022)
