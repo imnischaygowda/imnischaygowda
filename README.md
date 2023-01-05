@@ -9,7 +9,8 @@ Mail me at nischaygowda105@gmail.com
 - 🎓 Bachelor's in Computer Science at [VTU](https://vtu.ac.in/)
 
 Work Experience
-- 🔒 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/) 2021 - 2022
+- 👨‍💻 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/) (April 2021 - July 2022)
+- 👨‍ Junior Data Scientist at Radome Technologies and Services (June 2019 - March 2021)
 
 <br/>
 
