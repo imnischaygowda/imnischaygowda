@@ -27,3 +27,5 @@ Skills:
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+[![Nischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnischaygowda)](https://github.com/imnischaygowda/github-readme-stats)
+
