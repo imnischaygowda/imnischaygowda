@@ -1,7 +1,7 @@
 
 ## 👋🏻  Hi, I'm Nischay.
 
-I'm currently looking for Summer Internships in US. Open to roles such as Data Science, Data Analyst and Machine Learning Engineer.
+I'm currently looking for Summer Internships 2023 in US. Open to roles such as Data Science, Data Analyst and Machine Learning Engineer.
 
 Mail me at nischaygowda105@gmail.com
 
