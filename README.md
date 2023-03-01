@@ -1,16 +1,65 @@
 
 ## 👋🏻  Hi, I'm Nischay.
-
-I'm currently looking for Summer Internships 2023 in US. Open to roles such as Data Science, Data Analyst and Machine Learning Engineer.
-
-Mail me at nischaygowda105@gmail.com
-
 - 🎓 Studying Master's in Computer Science at [Arizona State University](https://asu.edu)
-- 🎓 Bachelor's in Electronics and Communication at [VTU](https://vtu.ac.in/)
 
-Work Experience
-- 👨‍💻 Data Scientist - BIU at [Piramal Enterprises](https://www.piramalfinance.com/) (April 2021 - July 2022)
-- 👨‍ Junior Data Scientist at Radome Technologies and Services (June 2019 - March 2021)
+👨‍💻 About
+
+✔ Nischay is a Data Science Engineer with 2+ years of Industry experience delivering end to end science projects across B2B, B2C Sales, Finance and Product industry.
+
+✔ Capable of driving projects of varying scope and delivering high impact.
+
+✔ Experience across both B2B, B2C Business Analytics, Customer Service Analytics, Demand Forecasting, and predictive maintenance.
+
+🗝 Key Competencies
+
+✔ Hands-on Experience on Statistical modelling, Data pipeline, Data Analysis  and Machine Learning.
+
+✔ Strong programming skills and experience for data querying and processing. Python; SQL;
+
+✔ Develop KPI metrics and reports to present business insights to leadership team and stakeholders.
+ 
+💻 Technical Skills
+
+➡ Analytics
+
+✔ Exploratory Data Analysis, Data Mining
+
+✔ Feature Engineering, 
+
+✔ Regression, Classification, Clustering 
+
+➡ Programming
+
+✔ Python, C++
+
+✔ Databases: SQL
+
+✔ Big Data: Python, PySpark, SQL, Airflow.
+
+✔ Cloud: AWS, Glue, Lambda, EC2.
+
+➡ Machine Learning
+
+✔ Regression, Classification, Clustering, Supervised / Unsupervised Algorithms
+
+✔ Computer Vision
+
+➡ Tools
+
+✔ MS SQL Server, PostgreSQL
+
+✔ Docker, Kubernetes
+
+
+Like the my work and want to connect.
+
+You are currently here! 👉🏻 LinkedIn: https://www.linkedin.com/in/nischayggowda/
+
+🐥 Twitter: https://twitter.com/imnischaygowda
+
+📖 Blog: https://imnischaygowda.hashnode.dev/
+
+🐙 GitHub: https://github.com/imnischaygowda
 
 <br/>
 
