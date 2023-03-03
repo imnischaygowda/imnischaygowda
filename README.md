@@ -19,7 +19,7 @@ Skills:
 
 ## 👨‍💻 About
 
-✔ Nischay is a Data Science Engineer with 2+ years of Industry experience delivering end to end science projects across B2B, B2C Sales, Finance and Product industry. <br/> ✔ Capable of driving projects of varying scope and delivering high impact. <br/> ✔ Experience across both B2B, B2C Business Analytics, Customer Service Analytics, Demand Forecasting, and predictive maintenance. <br/> 
+✔ Nischay is a Data Science Engineer with 2+ years of Industry experience delivering end to end Data Science projects across B2B, B2C Sales, Finance and Product industry. <br/> ✔ Capable of driving projects of varying scope and delivering high impact. <br/> ✔ Experience across both B2B, B2C Business Analytics, Customer Service Analytics, Demand Forecasting, and predictive maintenance. <br/> 
 
 🗝 Key Competencies <br/> ✔ Hands-on Experience on Statistical modelling, Data pipeline, Data Analysis  and Machine Learning. <br/> ✔ Strong programming skills and experience for data querying and processing. Python; SQL; <br/> ✔ Develop KPI metrics and reports to present business insights to leadership team and stakeholders.
  
