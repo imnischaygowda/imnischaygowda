@@ -1,7 +1,7 @@
 
 ## 👋🏻  Hi, I'm Nischay.
 - 🎓 Studying Master's in Computer Science at [Arizona State University](https://asu.edu), graduating in May 2024.
-- Open to 2023 Summer Internship and 2024 Full time Opportunities in Data Science, Data Engineering and Machine Learning Engineer roles.
+- Open to 2023 Internship/Co-op and 2024 Full time Opportunities in Data Science, Data Engineering and Machine Learning Engineer roles.
 
 Skills:
 
