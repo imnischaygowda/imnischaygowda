@@ -26,8 +26,7 @@ Skills:
 Like my work and want to connect. <br/> 
 You are currently here! 👉 GitHub: https://github.com/imnischaygowda  <br/>
 👔 LinkedIn: https://www.linkedin.com/in/nischayggowda/  <br/>
-🐥 Twitter: https://twitter.com/imnischaygowda <br/>
 📖 Blog: https://imnischaygowda.hashnode.dev/ <br/>
 
-[![Nischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnischaygowda)](https://github.com/imnischaygowda/github-readme-stats)
-
+<!-- [![Nischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnischaygowda)](https://github.com/imnischaygowda/github-readme-stats)
+ -->
