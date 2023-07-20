@@ -20,19 +20,35 @@
 ## Work Experience
 
 **Data Scientist - Assistant Manager at Piramal Finance [April 2021 - July 2022]** 
-* Enhanced Sales department attrition rate forecasting accuracy by 90% through constructing a regression-based model using historical data & demographics of 60,000+ employees.
-* Increased efficiency of Customer Service team by 15% by developing advanced structured data mining & analytics techniques to automate CSAT dashboard comprising of 10+ operational KPIs.
-* Reduced data processing latency and improved dashboard load time by 50% by integrating AWS Cloud Glue with Apache Airflow to create automated DAGs.
-* Generated tailored reports on consumer behaviors for informed business decisions by optimizing analytical solutions to analyze customer-centric data from Banking, Business, and Customer Service departments.
-* Improved daily business operations and sales reporting accuracy while reducing manual labor by 60% by building an API with an automated scheduling module.
+* Increased Sales department attrition rate forecasting accuracy by 85% using a Random Forest Regression model trained on historical data and demographics of 60,000+ employees. Leveraged tools like AWS EC2, S3, Sagemaker, Glue, Code Commit, and Apache Airflow.
+* Improved Customer Service team efficiency by 15% by developing a Tracking Analytics data pipeline that automated the CSAT dashboard and incorporated 10+ operational KPIs. Leveraged tools like AWS S3, Glue, Code Commit, PowerBI and Apache Airflow.
+* Reduced Data loading latency on dashboard by 50% by integrating AWS Glue with Apache Airflow to create DAGs for automated DataMart’s refresh. Leveraged tools like AWS S3, Glue, and Apache Airflow.
+* Developed tailored reports on consumer behaviors that informed business decisions by optimizing analytical solutions to analyze customer-centric data from Banking, Business, and Customer Service departments. Leveraged tools like AWS S3, Glue, Code Commit and Apache Airflow.
+* Improved daily business operations and sales reporting accuracy by 60% by building an API with an automated scheduling module. This reduced manual labor by 20% and freed up time for employees to focus on more strategic tasks. Leveraged tools like Python, Outlook, Excel, and Apache Airflow.
 
 **Junior Data Scientist at Radome Technology [June 2019 – March 2021]**
-* Developed Inventory and Sales forecasting modules for LogiSmart using Statistical Modeling and Regression-based predictive ML models, achieving an impressive 85% accuracy rate.
-* Presented a 15-minute pitch at IESS IX Conference in Coimbatore to over 350 attendees, receiving highly positive feedback from 90% of the audience and generating three potential new clients.
-* Actively contributed to R&D by researching ML papers, creating POCs, and presenting demos to senior team members and clients.
-* Conducted brainstorming sessions to generate innovative product concepts and explore creative ideas.
-* Utilized Scikit-learn pre-processing to perform feature engineering, resulting in a significant 10% improvement in model accuracy.
-* Implemented an end-to-end Object Detection app using Tensorflow framework, which achieved real-time detection of various aircraft with 83% accuracy at 30 fps.
+* Developed and deployed inventory and sales forecasting modules using statistical (ARIMA, ARMA ) modeling and (Random Forest, Support Vector Machine) regression-based predictive models, achieving an impressive 85% accuracy rate. Leveraged tools like AWS EC2, S3, Sagemaker, Glue, Code Commit,
+PostgreSQL and Apache Airflow.
+* Performed pre-processing techniques such as Feature engineering, Dimensionality reduction, which resulted in significant improvement in the model performance and prediction accuracy by 10%. Leveraged tools like PCA, Feature Importance, and Normalizing.
+* Proactively contributed to R&D by researching machine learning papers related to Forecasting and Object Detection Computer vision based and developed proof-of-concepts and presenting demos to senior team members and clients. Leveraged tools like Tensorflow, AWS S3, Sagemaker, Glue, Code Commit
+and PostgreSQL.
+* Developed an end-to-end object detection application using Regional CNN pre-trained model, to detect various aircraft with 83% accuracy in real-time at 30 frames per second video output. Leveraged tools like Tensorflow, Rekognition, Code Commit, and Python Flask.
+* Delivered a 15-minute keynote presentation at the IESS IX Conference in Coimbatore, India, to a highly engaged audience of over 350 professionals. Received overwhelmingly positive feedback from the audience, with 90% of attendees rating the presentation as excellent. Generated three new leads for potential clients.
+
+## Personal Projects
+
+**Credit Card Fraud Analytics & Machine Learning Modeling - [Link](https://github.com/imnischaygowda/Credit-Card-Fraud)**
+* A case study to build a Credit Card Fraud detecting Model, from highly variable and imbalanced real-dataset, using classification model (Logistic Regression, Decision Tree, K-Nearest Neighbor, SVC).
+* Plot correlation matrix to check the influence of variables on Target label and Box plot to identify the data distribution and outlier patterns.
+* Performed PCA dimensionality reduction, Robust scaling to remove outliers and Sampling to get equal number of Fraud/Not Fraud cases.
+* Key metric to access our model performance is False Negative rate. Specificity score of models – (Logistic Regression – 0.98, Support Vector Classifier – 0.99)
+
+
+**Factors and amenities influencing Airbnb Listing Analysis - [Link](https://github.com/imnischaygowda/Airbnb_Price_Analysis)**
+* A case study to perform an Explanatory Data Analytics of Airbnb housing data to determine the features influencing the price of listing, from highly variable and high number of data points dataset.
+* Perform data cleaning and feature analysis to understand the data and its distribution.
+* Plot correlation matrix to check the influence of variables on Target Price variable and Box plot to identify the data distribution and outlier patterns.
+* Use NLTK(Natural Language Toolkit) package to extract the key amenities from the data given column, form a Word Cloud. • After, doing complete EDA, we found that type of room, Property and number of bedrooms influenced a lot on pricing. Essentials amenities like Workspace, Parking, Laptop Friendly, Hair Dryer and Wi-Fi are most common in expensive listings.
 
 Like my work and want to connect. <br/> 
 You are currently here! 👉 GitHub: https://github.com/imnischaygowda  <br/>
