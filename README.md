@@ -33,7 +33,6 @@ PostgreSQL and Apache Airflow.
 * Proactively contributed to R&D by researching machine learning papers related to Forecasting and Object Detection Computer vision based and developed proof-of-concepts and presenting demos to senior team members and clients. Leveraged tools like Tensorflow, AWS S3, Sagemaker, Glue, Code Commit
 and PostgreSQL.
 * Developed an end-to-end object detection application using Regional CNN pre-trained model, to detect various aircraft with 83% accuracy in real-time at 30 frames per second video output. Leveraged tools like Tensorflow, Rekognition, Code Commit, and Python Flask.
-* Delivered a 15-minute keynote presentation at the IESS IX Conference in Coimbatore, India, to a highly engaged audience of over 350 professionals. Received overwhelmingly positive feedback from the audience, with 90% of attendees rating the presentation as excellent. Generated three new leads for potential clients.
 
 ## Personal Projects
 
