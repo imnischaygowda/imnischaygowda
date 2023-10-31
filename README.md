@@ -41,11 +41,6 @@ and PostgreSQL.
 * Plot correlation matrix to check the influence of variables on Target label and Box plot to identify the data distribution and outlier patterns.
 * Performed PCA dimensionality reduction, Robust scaling to remove outliers and Sampling to get equal number of Fraud/Not Fraud cases.
 * Key metric to access our model performance is False Negative rate. Specificity score of models – (Logistic Regression – 0.98, Support Vector Classifier – 0.99)
-
-
-**Factors and amenities influencing Airbnb Listing Analysis - [Link](https://github.com/imnischaygowda/Airbnb_Price_Analysis)**
-* A case study to perform an Explanatory Data Analytics of Airbnb housing data to determine the features influencing the price of listing, from highly variable and high number of data points dataset.
-* Perform data cleaning and feature analysis to understand the data and its distribution.
 * Plot correlation matrix to check the influence of variables on Target Price variable and Box plot to identify the data distribution and outlier patterns.
 * Use NLTK(Natural Language Toolkit) package to extract the key amenities from the data given column, form a Word Cloud. • After, doing complete EDA, we found that type of room, Property and number of bedrooms influenced a lot on pricing. Essentials amenities like Workspace, Parking, Laptop Friendly, Hair Dryer and Wi-Fi are most common in expensive listings.
 
