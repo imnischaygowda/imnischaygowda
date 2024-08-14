@@ -1,11 +1,11 @@
 
 ## 👋🏻  Hi, I'm Nischay.
-- 🎓 Studying Master's in Computer Science at [Arizona State University](https://asu.edu), graduating in May 2024.
-- Open to 2023 Internship/Co-op and 2024 Full time Opportunities in Data Science, Data Engineering and Machine Learning Engineer roles.
+- I have 3+ years of experience in Data Science & Engineering, proficient in Python, SQL, Big Data Analytics, ML modeling and Cloud computing.
+- 🎓 Master's in Computer Science at [Arizona State University](https://asu.edu), graduated in May 2024.
+- Open to Full time Opportunities in Data Engineering, Data Science, and Machine Learning Engineer roles.
 
 ## 👨‍💻 Summary
-
-✔ Nischay is a Data Science Engineer with 2+ years of Industry experience delivering end to end Data Science projects across B2B, B2C Sales, Finance and Product industry. <br/> ✔ Capable of driving projects of varying scope and delivering high impact. <br/> ✔ Experience across both B2B, B2C Business Analytics, Customer Service Analytics, Demand Forecasting, and predictive maintenance. <br/> 
+Nischay is a Data Science Engineer with 4 years of experience. He is detail-oriented Data Engineer with strong expertise in designing and implementing efficient data pipelines. Proficient in Python, SQL, and cloud technologies, committed to delivering scalable and high-performance data solutions that drive business insights and operational efficiency.
 
 
 ## Skills
@@ -20,19 +20,16 @@
 ## Work Experience
 
 **Data Scientist - Assistant Manager at Piramal Finance [April 2021 - July 2022]** 
-* Increased Sales department attrition rate forecasting accuracy by 85% using a Random Forest Regression model trained on historical data and demographics of 60,000+ employees. Leveraged tools like AWS EC2, S3, Sagemaker, Glue, Code Commit, and Apache Airflow.
-* Improved Customer Service team efficiency by 15% by developing a Tracking Analytics data pipeline that automated the CSAT dashboard and incorporated 10+ operational KPIs. Leveraged tools like AWS S3, Glue, Code Commit, PowerBI and Apache Airflow.
-* Reduced Data loading latency on dashboard by 50% by integrating AWS Glue with Apache Airflow to create DAGs for automated DataMart’s refresh. Leveraged tools like AWS S3, Glue, and Apache Airflow.
-* Developed tailored reports on consumer behaviors that informed business decisions by optimizing analytical solutions to analyze customer-centric data from Banking, Business, and Customer Service departments. Leveraged tools like AWS S3, Glue, Code Commit and Apache Airflow.
-* Improved daily business operations and sales reporting accuracy by 60% by building an API with an automated scheduling module. This reduced manual labor by 20% and freed up time for employees to focus on more strategic tasks. Leveraged tools like Python, Outlook, Excel, and Apache Airflow.
+* Improved customer service efficiency by 15%, achieved through Implementing a Scalable ETL Batch Data processing pipeline for CSAT dashboard, improvement was measured by pre- and post-implementation CSAT scores and response time metrics. Utilized Python, SQL queries and tools like AWS Glue, PostgreSQL, EC2, Code Commit and Apache Airflow.
+* Significantly reduced dashboard data loading latency by 50%, cutting average load times from 10 minutes to 5 minutes, by implementing an ELT pipeline using AWS Glue, and Airflow to designing a DataMart optimized with Python/PySpark and SQL queries.
+* Boosted employee retention by 15% through a predictive churn model. Integrated a Random Forest model into sales operations to proactively identify at-risk employees, enabling targeted retention strategies.
+* Optimized data processing workflows and sales analysis using Python API scripts for automated scheduling, resulting in a 50 % faster in timely and accurate sales reporting.
 
 **Junior Data Scientist at Radome Technology [June 2019 – March 2021]**
-* Developed and deployed inventory and sales forecasting modules using statistical (ARIMA, ARMA ) modeling and (Random Forest, Support Vector Machine) regression-based predictive models, achieving an impressive 85% accuracy rate. Leveraged tools like AWS EC2, S3, Sagemaker, Glue, Code Commit,
-PostgreSQL and Apache Airflow.
-* Performed pre-processing techniques such as Feature engineering, Dimensionality reduction, which resulted in significant improvement in the model performance and prediction accuracy by 10%. Leveraged tools like PCA, Feature Importance, and Normalizing.
-* Proactively contributed to R&D by researching machine learning papers related to Forecasting and Object Detection Computer vision based and developed proof-of-concepts and presenting demos to senior team members and clients. Leveraged tools like Tensorflow, AWS S3, Sagemaker, Glue, Code Commit
-and PostgreSQL.
-* Developed an end-to-end object detection application using Regional CNN pre-trained model, to detect various aircraft with 83% accuracy in real-time at 30 frames per second video output. Leveraged tools like Tensorflow, Rekognition, Code Commit, and Python Flask.
+* Achieved 85% accuracy in inventory and sales forecasting by developing and deploying modules using ARIMA, ARMA, Random Forest, and Support Vector Machine models. Leveraged GCP services like VM, BigQuery, Cloud Storage, PostgreSQL and Apache Airflow.
+* Improved model performance and prediction accuracy by 10% through pre-processing techniques such as feature engineering and dimensionality reduction.
+* Achieved 83% accuracy in real-time aircraft detection at 30 frames per second by developing an end-to-end object detection application using the Regional CNN model. Utilized TensorFlow, Code Commit, and Python Flask.
+* Enhanced R&D efforts by researching machine learning papers on forecasting and object detection, developing proof-of-concepts, and presenting demos to senior team members and clients.
 
 ## Personal Projects
 
