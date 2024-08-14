@@ -19,8 +19,13 @@ Nischay is a Data Science Engineer with 4 years of experience. He is detail-orie
 * Other technologies: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
 ## Work Experience
-
-**Data Scientist - Assistant Manager at Piramal Finance [April 2021 - July 2022]** 
+**Volunteer Data Science Engineer at EPICS ASU (Part-time Volunteer) [June 2024 - Present]**
+* Collaborated on ETL (Extract, Transform, Load) tasks, maintaining data integrity and verifying pipeline stability.
+* Redesigned legacy SQL relational database, implementing normalized schema and efficient query structures to enhance data integrity and retrieval speed.
+* Prepared written summaries to accompany results and maintain documentation.
+* Generated detailed studies on potential third-party data handling solutions, verifying compliance with internal needs and stakeholder requirements.
+  
+**Data Science Engineer at Piramal Finance [April 2021 - July 2022]** 
 * Improved customer service efficiency by 15%, achieved through Implementing a Scalable ETL Batch Data processing pipeline for CSAT dashboard, improvement was measured by pre- and post-implementation CSAT scores and response time metrics. Utilized Python, SQL queries and tools like AWS Glue, PostgreSQL, EC2, Code Commit and Apache Airflow.
 * Significantly reduced dashboard data loading latency by 50%, cutting average load times from 10 minutes to 5 minutes, by implementing an ELT pipeline using AWS Glue, and Airflow to designing a DataMart optimized with Python/PySpark and SQL queries.
 * Boosted employee retention by 15% through a predictive churn model. Integrated a Random Forest model into sales operations to proactively identify at-risk employees, enabling targeted retention strategies.
