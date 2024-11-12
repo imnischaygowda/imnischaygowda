@@ -6,7 +6,10 @@
 - Open to Full time Opportunities in Data Engineering, Data Science, and Machine Learning Engineer roles.
 
 ## 👨‍💻 Summary
-Nischay is a Data Science Engineer with 4 years of experience. He is detail-oriented Data Engineer with strong expertise in designing and implementing efficient data pipelines. Proficient in Python, SQL, and cloud technologies, committed to delivering scalable and high-performance data solutions that drive business insights and operational efficiency.
+A detail-oriented Data Engineer with 3+ years of experience in Data Science & Engineering, having experience in designing,
+developing analytical dashboards, ML Models and implementing efficient data pipelines. Proficient in Python, SQL, Power
+BI, and cloud technologies, skilled in using big data tools like Apache Spark, Airflow, and Databricks, as well as cloud
+platforms like AWS, and GCP to deliver scalable and high-performance data solutions.
 
 
 ## Skills
