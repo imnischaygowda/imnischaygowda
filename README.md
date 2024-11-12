@@ -1,6 +1,6 @@
 
-## 👋🏻  Hi, I'm Nischay. CV Link - 
-- My CV [Link](https://asu.edu](https://drive.google.com/file/d/1afuDWh0lOd7lPQi18KXsbf1SPzgsWJGY/view?usp=sharing )
+## 👋🏻  Hi, I'm Nischay
+- My CV [Link](https://drive.google.com/file/d/1jtkWEVa9RTYMEuOaYutEv--yc2U6eieg/view?usp=sharing)
 - I have 3+ years of experience in Data Science & Engineering, proficient in Python, SQL, Big Data Analytics, ML modeling and Cloud computing. 
 - 🎓 Master's in Computer Science at [Arizona State University](https://asu.edu), graduated in May 2024.
 - Open to Full time Opportunities in Data Engineering, Data Science, and Machine Learning Engineer roles.
